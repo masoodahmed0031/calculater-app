@@ -1,0 +1,39 @@
+body {
+    background-image: url("pic2.jpg");
+    height: 100px;
+}
+
+
+.man {
+    box-shadow: -20px 20px 30px;
+    border: 13px solid gray;
+    width: 142px;
+    margin: 0 auto;
+    height: 170px;
+    border-radius: 25px;
+}
+.input {
+    box-shadow:-1px 1px 3px;
+background-color: hotpink;
+    border-radius: 25px;
+   margin-left: 2px;
+    width: 132px;
+margin: 1px;
+}
+.btn {
+box-shadow:-2px 2px 5px; 
+background-color: hotpink;
+    border-radius: 500px;
+    width: 30px;
+    margin-top: 4px;
+    height: 30px;
+    margin-left: 2px;
+}
+.clerbtn {
+    box-shadow:-2px 2px 5px;
+    background-color: hotpink;;
+    height: 30px;
+    width: 68px;
+    margin-top: 3px;
+    border-radius: 25px;
+}
